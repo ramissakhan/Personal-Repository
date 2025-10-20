@@ -1,12 +1,12 @@
 Hi, I'm Ramissa!
-🎓 Sophomore at Union College, studying Computer Science & Math
+🎓 Junior at Union College, studying Computer Science & Math
 🔭 Aspiring Software Developer focusing on User Interface & Data Science
 
 I love tackling real-world problems through data analysis and making that data easier to comprehend through UI. Currently, I'm focusing on building machine learning models and diving deeper into data science and UI. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
 
 🎯 Featured Project: Peer Code Review Website
-What We Did: We built a web platform where students and instructors can view shared code, highlight specific lines, and leave collaborative comments for feedback and discussion.
+What We Did: We built a Full-Stack web platform where students and instructors can view shared code, highlight specific lines, and leave collaborative comments for feedback and discussion.
 Tools: HTML, CSS, JavaScript (React), and Python (Django REST)
 
  
@@ -20,8 +20,8 @@ Databases: SQL, MySQL
  
 
 📫 How to Reach Me:
-Email: ramissa117@gmail.com
-LinkedIn: https://www.linkedin.com/in/ramissa-khan-300870b2/
+Email: khanr@union.edu
+LinkedIn: (https://www.linkedin.com/in/ramissakhan/)
  
 
 📊 GitHub Stats: Coming soon!
